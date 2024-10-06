@@ -2,6 +2,7 @@
 #include <conio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <dos.h>
 
 #define LEFT 75
 #define RIGHT 77
