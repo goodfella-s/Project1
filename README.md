@@ -1,4 +1,4 @@
 # Project1
-This is my first repository on GitHub
+Project 150
 <br>
 Author: Rantideb Roy
