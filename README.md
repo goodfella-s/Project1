@@ -26,4 +26,24 @@ Includes **Easy, Medium, and Hard** levels with special bricks for power-ups.
 ## 🚀 How to Run
 Compile with WinBGI (`graphics.h`) and required libraries.
 
+---
+
+## 📷 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/HomeScreen.png)
+
+### Menu
+![Menu](screenshots/Menu.png)
+
+### Easy Level
+![Easy Level](screenshots/Level1.png)
+
+### Medium Level
+![Medium Level](screenshots/Level2.png)
+
+### Hard Level
+![Hard Level](screenshots/Level3.png)
+
+
 
